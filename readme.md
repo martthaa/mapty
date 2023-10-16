@@ -10,3 +10,5 @@ Now the goal of this application is for me to log my workouts.
 ![Опис](screenshots/photo_4.jpg)
 
 </details>
+
+[DEMO](https://martthaa.github.io/mapty/)
