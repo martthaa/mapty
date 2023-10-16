@@ -1,6 +1,6 @@
-# JS-Camp  
+# Mapty
   <details>
-<summary>Mapty</summary>
+<summary>description</summary>
  
 Now the goal of this application is for me to log my workouts.
  
